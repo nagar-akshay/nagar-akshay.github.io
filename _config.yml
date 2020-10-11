@@ -1,16 +1,16 @@
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+url:            "https://akshaynagar.com"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Akshay Nagar
+  url:          https://akshaynagar.com
+  email:        akshaynagar183@gmail.com
 
 # Build settings
 markdown:       kramdown
