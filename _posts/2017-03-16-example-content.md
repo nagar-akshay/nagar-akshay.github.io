@@ -2,6 +2,7 @@
 layout: post
 title: "Force For Good"
 author: "Akshay"
+comments: true
 tags: Philanthropy
 ---
 
