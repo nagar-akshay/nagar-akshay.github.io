@@ -2,6 +2,7 @@
 layout: post
 title: "First PC build"
 author: "Akshay Nagar"
+comments: true
 tags: Personal Blog
 ---
 I always had this dream of building my own PC one day. It is infact the dream of any person who plays above average number of games in their life.
