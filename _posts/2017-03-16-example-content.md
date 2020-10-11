@@ -1,137 +1,24 @@
 ---
 layout: post
-title: "Example Content"
-author: "Chester"
-tags: Example
+title: "Force For Good"
+author: "Akshay"
+tags: Philanthropy
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas tincidunt ornare nibh, non elementum augue tempus eget. Pellentesque tempus scelerisque iaculis. Nullam interdum ultricies nibh quis sollicitudin. Donec ornare fermentum facilisis. Ut at sem ac sem imperdiet varius a eget tortor. Nam eu augue eget orci semper maximus in eget augue. Mauris ornare, nisl ut suscipit consectetur, mi quam interdum tellus, at rutrum quam eros ultrices mi.
 
-# Headers
-{% highlight markdown %}
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-{% endhighlight %}
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-
-# Text formatting
-{% highlight markdown %}
-- **Bold**
-- _Italics_
-- ~~Strikethrough~~
-- <ins>Underline</ins>
-- <sup>Superscript</sup>
-- <sub>Subscript</sub>
-- Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
-- Citation: <cite>&mdash; Chester How</cite>
-{% endhighlight %}
-
-- **Bold**
-- _Italics_
-- ~~Strikethrough~~
-- <ins>Underline</ins>
-- <sup>Superscript</sup>
-- <sub>Subscript</sub>
-- Abbreviation: <abbr title="HyperText Markup Language">HTML</abbr>
-- Citation: <cite>&mdash; Chester How</cite>
-
-# Lists
-{% highlight markdown %}
-1. Ordered list item 1
-2. Ordered list item 2
-3. Ordered list item 3
-
-* Unordered list item 1
-* Unordered list item 2
-* Unordered list item 3
-{% endhighlight %}
-
-1. Ordered list item 1
-2. Ordered list item 2
-3. Ordered list item 3
-
-* Unordered list item 1
-* Unordered list item 2
-* Unordered list item 3
-
-# Links
-{% highlight markdown %}
-Check out tale on [GitHub](https://github.com/chesterhow/tale).
-{% endhighlight %}
-
-Check out tale on [GitHub](https://github.com/chesterhow/tale).
-
+#
 # Images
-{% highlight markdown %}
-![Placeholder image](https://placehold.it/800x400 "Placeholder image")
 
-![Image with caption](https://placehold.it/700x400 "Image with caption")
-_This is an image with a caption_
-{% endhighlight %}
 
-![Placeholder image](https://placehold.it/800x400 "Placeholder image")
 
-![Image with caption](https://placehold.it/700x400 "Image with caption")
-_This is an image with a caption_
 
-# Code and Syntax Highlighting
-Use back-ticks for `inline code`. Multi-line code snippets are supported too through Pygments.
+![Image with caption](https://i0.wp.com/www.thepathway2success.com/wp-content/uploads/2018/03/P1177750-1024x1024.jpg?resize=600%2C600 "Social Board Game")
 
-{% highlight js %}
-// Sample javascript code
-var s = "JavaScript syntax highlighting";
-alert(s);
-{% endhighlight %}
 
-{% highlight python %}
-# Sample python code
-s = "Python syntax highlighting"
-print s
-{% endhighlight %}
 
-Adding `linenos` to the highlight tag enables line numbers.
-
-{% highlight js  linenos %}
-// Sample javascript code
-var s = "JavaScript syntax highlighting";
-alert(s);
-{% endhighlight %}
-
-# Blockquotes
-{% highlight markdown %}
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-{% endhighlight %}
-
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-# Horizontal Rule & Line Break
-{% highlight markdown %}
-Use `<hr>` for horizontal rules
-
-<hr>
-
-and `<br>` for line breaks.
-
-<br>
-{% endhighlight %}
-
-Use `<hr>` for horizontal rules
-
-<hr>
-
-and `<br>` for line breaks.
-
-<br>
-
-_The end_
+I have recently started on making a new app in a team of 5 for an NGO which caters to the needs of socially and emotional needs of children and gamifies the whole concept.
+Honestly Speaking the whole concept was really different and is the first time in history as the content can be changed anytime by the NGO without any developer.
+This would serve almost 2 lakh children globally. I feel such initiatives will really help in nurturing the lives of children in rural background and help in their development.
+I would love for all of you to checkout the app when its done.
+Maybe I will update its link. 
