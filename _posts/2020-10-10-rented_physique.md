@@ -2,7 +2,7 @@
 layout: post
 title:  "Rented Physique"
 author: "Akshay Nagar"
-tags: Personal Blog
+tags: Personal
 ---
 
 I’m painting a landscape. I can’t seem to draw the leaves correctly. With a sheepish look on my face, I pick up the pad and walk to my teacher. The pad is large, and heavy. My hands are really small.
