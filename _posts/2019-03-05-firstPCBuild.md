@@ -5,7 +5,7 @@ author: "Akshay Nagar"
 comments: true
 tags: Personal Blog
 ---
-I always had this dream of building my own PC one day. It is infact the dream of any person who plays above average number of games in their life.
+I always had this dream of building my own PC one day. It is infact the dream of any person who plays above average number of desktop games in their life.
 
 I used to have this Windows 98 PC as a kid in which I had only this games of Dave,CD man and prince of persia which was somehow my favourite at the time.
 I also didnt have internet so it just seemed that DAVE was the epitome of the gaming world at the time.
