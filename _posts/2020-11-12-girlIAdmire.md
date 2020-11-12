@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The girl I like"
+title:  "The one I like"
 author: "Akshay Nagar"
 tags: Personal
 ---
