@@ -33,6 +33,4 @@ I have my home gym, and all my brain is trying to think about is what else is â€
 
 Almost everything. I realized that there are very few things in life that require no maintenance. Everything else requires consistent time and effort to acquire, and then keep.
 
-And so, you have to consider what are you willing to pay for. I remember when the first time I had to replace a part in my motorcycle. I was talking about it to one of my two friends and he told me that if you want to keep an elephant as a pet, youâ€™ll have to feed it.
-
 Weigh in: 62.4 Kg
