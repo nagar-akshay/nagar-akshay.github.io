@@ -2,6 +2,7 @@
 layout: post
 title:  "The one I like"
 author: "Akshay Nagar"
+comments: true
 tags: Personal
 ---
 
