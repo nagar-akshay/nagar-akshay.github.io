@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rented Physique"
+title:  "Post #03-Rented Physique"
 author: "Akshay Nagar"
 tags: Personal
 ---
