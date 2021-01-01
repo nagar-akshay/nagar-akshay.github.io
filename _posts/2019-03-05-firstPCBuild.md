@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First PC build"
+title: "Post #01-First PC build"
 author: "Akshay Nagar"
 comments: true
 tags: Personal

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ASTROPHYSICS FOR PEOPLE IN A HURRY"
+title:  "Post #02-Random Astrophysics"
 author: "Akshay Nagar"
 comments: true
 tags: Astrophysics
