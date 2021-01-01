@@ -21,7 +21,8 @@ my Graphics card is an AMD Ryzen 2600 16GB,RGB RAM 16GB, motherboard is ms 7S38 
  I also somehow got Creative speaker 2.1 and mousepad for free. All of this for 72k . Not a bad deal  at all 
 
 Now my PC is far from perfect for a gaming PC but it will definitely run the the most demanding games easily.
- 
+Btw credits to my college mate Deepank Negi for helping me through the entire process and in building too.
+
 Next stop --> Hackintosh
 
 You can comment on this blog if you have any questions on your PC build.
